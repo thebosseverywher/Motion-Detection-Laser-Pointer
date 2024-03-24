@@ -10,7 +10,7 @@ final is the python code that runs on your computer
 laser turret final is the .ino that goes onto your arduino
 
 needed materials
-laptop with python and opencv,pywin libraries
+laptop with python and opencv,pywin,pyserial libraries
 arduino uno
 2 servos
 1 laser diode
